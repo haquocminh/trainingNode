@@ -1,0 +1,9 @@
+{
+ "name": "Minh",
+ "Version": "1.0.0",
+ "description": "",
+ "main": "",
+ "dependencies": {
+  "express": "^4.13.1"
+ }
+}
